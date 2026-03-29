@@ -1,0 +1,11 @@
+                Gerção de codigo 
+Com o refinamento do código, a ia deixa o código mais compctado e simplificado 
+de ser interpretado. Com um prompt mais vago a ia cria "separações" de como, e em qual 
+estrutura de código se encaixa melhor. Já no refinamento, o código menos extenso, mais organizado
+e com melhorias nos comentários e sugestões que a ptópria ia te aresenta.
+
+              comparação de tecnologias 
+O prompt vago, leva informações sobre a compração com textos extensos e em muitas vezes são de 
+pouca relevãncia. 
+o refinado, faz um resumo completo entre as duas linguagens, com menos textos,
+porém com uma qunatidade de informações mais relevantes e de mais qualidade.
