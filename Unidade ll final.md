@@ -1,0 +1,1 @@
+Conclusão: A tecnologia serve para aumentar sua produtividade, mas ela não substitui a criatividade e a decisão humana. O bom profissional é aquele que sabe usar a ferramenta para ser mais rápido sem abrir mão da segurança e da qualidade.
